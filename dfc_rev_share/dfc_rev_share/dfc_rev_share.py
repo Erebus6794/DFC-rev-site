@@ -39,51 +39,51 @@ def index():
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol per Fat Cat", color="#000000"),
-                        pc.td(3.9818, "Sol", color="#000000"),
+                        pc.td("4.3017", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol Generated", color="#000000"),
-                        pc.td(138570.97, "Sol", color="#000000"),
+                        pc.td("150,642.09", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol to Reserve", color="#000000"),
-                        pc.td(4915.716, "Sol", color="#000000"),
+                        pc.td("5346.826", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol to Cold Wallet", color="#000000"),
-                        pc.td(11502.912, "Sol", color="#000000"),
+                        pc.td("11858.467", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol to Marketing", color="#000000"),
-                        pc.td(13487.78, "Sol", color="#000000"),
+                        pc.td("14678.71", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol to Player Rewards Fund",
                               color="#000000"),
-                        pc.td(9473.97, "Sol", color="#000000"),
+                        pc.td("10664.9", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total Sol to Contingency Fund", color="#000000"),
-                        pc.td(4737.01, "Sol", color="#000000"),
+                        pc.td("5332.48", "Sol", color="#000000"),
                     )
                 ),
                 pc.tbody(
                     pc.tr(
                         pc.td("Total DCF Sol to Partner Projects",
                               color="#000000"),
-                        pc.td(5837.539, "Sol", color="#000000"),
+                        pc.td("6875.442", "Sol", color="#000000"),
                     )
                 ),
             ),
